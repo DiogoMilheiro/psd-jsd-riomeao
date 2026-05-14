@@ -74,7 +74,7 @@
   "jsd": {
     "stats": {
       "membros": { "valor": 30, "sufixo": "+", "label": "Membros ativos" },
-      "atividades": { "valor": 3, "sufixo": "", "label": "Atividades realizadas" },
+      "atividades": { "valor": 10, "sufixo": "", "label": "Atividades realizadas" },
       "anos": { "valor": 11, "sufixo": "", "label": "Anos de presença" }
     },
     "agenda": [
