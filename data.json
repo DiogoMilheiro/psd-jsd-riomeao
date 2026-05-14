@@ -47,7 +47,7 @@
       "presidencia": {
         "descricao": "A Presidência da Concelhia é o órgão executivo responsável pela gestão quotidiana e representação do partido no concelho.",
         "membros": [
-          { "nome": "Nome do Presidente", "cargo": "Presidente", "iniciais": "PP", "foto": null },
+          { "nome": "Joel", "cargo": "Presidente", "iniciais": "J", "foto": null },
           { "nome": "Nome do Vice-Presidente", "cargo": "Vice-Presidente", "iniciais": "VP", "foto": null },
           { "nome": "Nome do Secretário", "cargo": "Secretário", "iniciais": "SE", "foto": null }
         ]
