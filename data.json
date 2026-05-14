@@ -79,14 +79,14 @@
     },
     "agenda": [
       {
-        "dia": "211",
+        "dia": "21",
         "mes": "Julho",
         "nome": "SunSet",
         "local": "Antonius Rio Meão",
         "tag": "Evento"
-      },
-    
-    ],
+      }
+     ],
+   
     "galeria": [
       { "legenda": "Debate Político", "data": "Fev 2025", "foto": null },
       { "legenda": "Voluntariado", "data": "Jan 2025", "foto": null },
