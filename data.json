@@ -119,7 +119,7 @@
       "presidencia": {
         "descricao": "A Presidência do Núcleo é o órgão executivo responsável pela gestão quotidiana e pela implementação do programa de ação aprovado.",
         "membros": [
-          { "nome": "Diogo Milheiro", "cargo": "Presidente", "iniciais": "DM", "foto": DiogoMilheiro.jpeg },
+          { "nome": "Diogo Milheiro", "cargo": "Presidente", "iniciais": "DM", "foto": null },
           { "nome": "Inês Reis", "cargo": "Vice-Presidente", "iniciais": "IR", "foto": null },
           { "nome": "Alexandre Silva", "cargo": "Secretário", "iniciais": "AS", "foto": null }
         ]
