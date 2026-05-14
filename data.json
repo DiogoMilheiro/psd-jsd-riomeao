@@ -79,33 +79,13 @@
     },
     "agenda": [
       {
-        "dia": "24",
-        "mes": "Jun",
-        "nome": "Debate Político — Emprego Jovem",
-        "local": "Sede JSD Rio Meão",
-        "tag": "Debate"
+        "dia": "211",
+        "mes": "Julho",
+        "nome": "SunSet",
+        "local": "Antonius Rio Meão",
+        "tag": "Evento"
       },
-      {
-        "dia": "08",
-        "mes": "Jul",
-        "nome": "Ação de Voluntariado Comunitário",
-        "local": "Freguesia de Rio Meão",
-        "tag": "Voluntariado"
-      },
-      {
-        "dia": "19",
-        "mes": "Jul",
-        "nome": "Congresso Distrital JSD",
-        "local": "Santa Maria da Feira",
-        "tag": "Congresso"
-      },
-      {
-        "dia": "02",
-        "mes": "Ago",
-        "nome": "Convívio de Verão JSD Rio Meão",
-        "local": "A confirmar",
-        "tag": "Convívio"
-      }
+    
     ],
     "galeria": [
       { "legenda": "Debate Político", "data": "Fev 2025", "foto": null },
