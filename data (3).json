@@ -1,0 +1,112 @@
+{
+  "psd": {
+    "stats": {
+      "membros": { "valor": 80, "sufixo": "+", "label": "Militantes ativos" },
+      "atividades": { "valor": 60, "sufixo": "", "label": "Iniciativas realizadas" },
+      "anos": { "valor": 30, "sufixo": "", "label": "Anos de presença" }
+    },
+    "agenda": [],
+    "galeria": [
+      { "legenda": "Reunião de Concelhia", "data": "Mar 2025", "foto": null },
+      { "legenda": "Ação de Proximidade", "data": "Fev 2025", "foto": null },
+      { "legenda": "Congresso Distrital", "data": "Jan 2025", "foto": null },
+      { "legenda": "Campanha Autárquica", "data": "Dez 2024", "foto": null },
+      { "legenda": "Encontro com Cidadãos", "data": "Nov 2024", "foto": null },
+      { "legenda": "Formação Política", "data": "Out 2024", "foto": null }
+    ],
+    "direcao": {
+      "presidencia": {
+        "descricao": "A Presidência da Concelhia é o órgão executivo responsável pela gestão quotidiana e representação do partido no concelho.",
+        "membros": [
+          { "nome": "Joel", "cargo": "Presidente", "iniciais": "J", "foto": null },
+          { "nome": "Nome do Vice-Presidente", "cargo": "Vice-Presidente", "iniciais": "VP", "foto": null },
+          { "nome": "Nome do Secretário", "cargo": "Secretário", "iniciais": "SE", "foto": null }
+        ]
+      },
+      "conselho": {
+        "descricao": "O Conselho de Jurisdição é o órgão responsável por zelar pelo cumprimento dos estatutos e regular a vida interna do partido.",
+        "membros": [
+          { "nome": "Nome do Presidente", "cargo": "Presidente", "iniciais": "PJ", "foto": null },
+          { "nome": "Nome do Vogal", "cargo": "Vogal", "iniciais": "V1", "foto": null },
+          { "nome": "Nome do Vogal", "cargo": "Vogal", "iniciais": "V2", "foto": null }
+        ]
+      },
+      "comissao": {
+        "descricao": "A Comissão Política é o órgão de reflexão e orientação estratégica do partido ao nível local.",
+        "membros": [
+          { "nome": "Membro 1", "cargo": "Membro", "iniciais": "M1", "foto": null },
+          { "nome": "Membro 2", "cargo": "Membro", "iniciais": "M2", "foto": null },
+          { "nome": "Membro 3", "cargo": "Membro", "iniciais": "M3", "foto": null },
+          { "nome": "Membro 4", "cargo": "Membro", "iniciais": "M4", "foto": null }
+        ]
+      }
+    }
+  },
+  "jsd": {
+    "stats": {
+      "membros": { "valor": 30, "sufixo": "+", "label": "Membros ativos" },
+      "atividades": { "valor": 24, "sufixo": "", "label": "Atividades realizadas" },
+      "anos": { "valor": 11, "sufixo": "", "label": "Anos de presença" }
+    },
+    "agenda": [
+      {
+        "dia": "11",
+        "mes": "Jul",
+        "nome": "Sunset",
+        "local": "Antonius Rio Meão",
+        "tag": "Evento"
+      }
+    ],
+    "galeria": [
+      { "legenda": "Debate Político", "data": "Fev 2025", "foto": null },
+      { "legenda": "Voluntariado", "data": "Jan 2025", "foto": null },
+      { "legenda": "Congresso JSD", "data": "Dez 2024", "foto": null },
+      { "legenda": "Convívio Anual", "data": "Nov 2024", "foto": null },
+      { "legenda": "Ação de Rua", "data": "Out 2024", "foto": null },
+      { "legenda": "Workshop Político", "data": "Set 2024", "foto": null }
+    ],
+    "direcao": {
+      "presidencia": {
+        "descricao": "A Presidência do Núcleo é o órgão executivo responsável pela gestão quotidiana e pela implementação do programa de ação aprovado.",
+        "membros": [
+          { "nome": "Diogo Milheiro", "cargo": "Presidente", "iniciais": "DM", "foto": "fotos/diogopresidente.png" },
+          { "nome": "Inês Reis", "cargo": "Vice-Presidente", "iniciais": "IR", "foto": null },
+          { "nome": "Alexandre Silva", "cargo": "Secretário", "iniciais": "AS", "foto": null }
+        ]
+      },
+      "mesa": {
+        "descricao": "A Mesa de Plenário dirige as sessões plenárias do núcleo, garantindo o cumprimento dos estatutos e os direitos de participação dos membros.",
+        "membros": [
+          { "nome": "Isabel Silva", "cargo": "Presidente", "iniciais": "IS", "foto": null },
+          { "nome": "Tânia Ferreira", "cargo": "Vice-Presidente", "iniciais": "TF", "foto": null },
+          { "nome": "Carla Brito", "cargo": "Secretário", "iniciais": "CB", "foto": null }
+        ]
+      },
+      "gabinetes": {
+        "descricao": "Os Gabinetes de Trabalho organizam a ação do núcleo por áreas temáticas.",
+        "items": [
+          {
+            "icone": "📚",
+            "titulo": "Formação e Estudos",
+            "texto": "Coordenador: Tiago Rocha | Membros: Maria Couto, Nádia, Beatriz Pinheiro, Beatriz Pinhão, Filipa Vieira, Ulisses"
+          },
+          {
+            "icone": "🤝",
+            "titulo": "Ação Social",
+            "texto": "Coordenadora: Inês Carvalho | Membros: Bárbara Patrícia, Leonor Almeida, Beatriz Santos, Beatriz Rodrigues, Mariana Camboa, Mafalda Camboa"
+          },
+          {
+            "icone": "🎭",
+            "titulo": "Cultura e Desporto",
+            "texto": "Coordenador: Paulo Pinto | Membros: Lara Nunes, Rodrigo Pais, Nuno Ferreira, Gaspar Costa, Gonçalo Faria, Pedro Magolo"
+          },
+          {
+            "icone": "📢",
+            "titulo": "Comunicação",
+            "texto": "Coordenadora: Telma Reis | Membros: Carolina Gomes, Rafael Guimarães"
+          }
+        ]
+      }
+    }
+  }
+}
